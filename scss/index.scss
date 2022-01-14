@@ -1,0 +1,10 @@
+// variables & functions - may not needed anymore with new "@use"
+
+// colors
+// @use "abstracts/colors";
+
+// components (button, card, navbar)
+@use "components/card";
+@use "components/button";
+
+// utilities (spacing, marging ,padding, opacity etc)
