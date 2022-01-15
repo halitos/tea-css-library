@@ -3452,8 +3452,6 @@ img {
 }
 
 .btn {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3465,8 +3463,6 @@ img {
 }
 
 .btn-primary {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3481,8 +3477,6 @@ img {
 }
 
 .btn-outlined-primary {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3498,8 +3492,6 @@ img {
 }
 
 .btn-complement-primary {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3516,8 +3508,6 @@ img {
 }
 
 .btn-secondary {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3532,8 +3522,6 @@ img {
 }
 
 .btn-outlined-secondary {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3549,8 +3537,6 @@ img {
 }
 
 .btn-complement-secondary {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3567,8 +3553,6 @@ img {
 }
 
 .btn-error {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3583,8 +3567,6 @@ img {
 }
 
 .btn-outlined-error {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3600,8 +3582,6 @@ img {
 }
 
 .btn-complement-error {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3618,8 +3598,6 @@ img {
 }
 
 .btn-info {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3634,8 +3612,6 @@ img {
 }
 
 .btn-outlined-info {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3651,8 +3627,6 @@ img {
 }
 
 .btn-complement-info {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3669,8 +3643,6 @@ img {
 }
 
 .btn-blue {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3685,8 +3657,6 @@ img {
 }
 
 .btn-outlined-blue {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3702,8 +3672,6 @@ img {
 }
 
 .btn-complement-blue {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3720,8 +3688,6 @@ img {
 }
 
 .btn-red {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3736,8 +3702,6 @@ img {
 }
 
 .btn-outlined-red {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3753,8 +3717,6 @@ img {
 }
 
 .btn-complement-red {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3771,8 +3733,6 @@ img {
 }
 
 .btn-yellow {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3787,8 +3747,6 @@ img {
 }
 
 .btn-outlined-yellow {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3804,8 +3762,6 @@ img {
 }
 
 .btn-complement-yellow {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3822,8 +3778,6 @@ img {
 }
 
 .btn-green {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3838,8 +3792,6 @@ img {
 }
 
 .btn-outlined-green {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3855,8 +3807,6 @@ img {
 }
 
 .btn-complement-green {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3873,8 +3823,6 @@ img {
 }
 
 .btn-orange {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3889,8 +3837,6 @@ img {
 }
 
 .btn-outlined-orange {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3906,8 +3852,6 @@ img {
 }
 
 .btn-complement-orange {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3924,8 +3868,6 @@ img {
 }
 
 .btn-purple {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3940,8 +3882,6 @@ img {
 }
 
 .btn-outlined-purple {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3957,8 +3897,6 @@ img {
 }
 
 .btn-complement-purple {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3975,8 +3913,6 @@ img {
 }
 
 .btn-gray {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -3991,8 +3927,6 @@ img {
 }
 
 .btn-outlined-gray {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -4008,8 +3942,6 @@ img {
 }
 
 .btn-complement-gray {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -4026,8 +3958,6 @@ img {
 }
 
 .btn-black {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -4042,8 +3972,6 @@ img {
 }
 
 .btn-outlined-black {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -4059,8 +3987,6 @@ img {
 }
 
 .btn-complement-black {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -4077,8 +4003,6 @@ img {
 }
 
 .btn-white {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -4093,8 +4017,6 @@ img {
 }
 
 .btn-outlined-white {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
@@ -4110,8 +4032,6 @@ img {
 }
 
 .btn-complement-white {
-  width: 3.5rem;
-  height: 1.8rem;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
