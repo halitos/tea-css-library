@@ -1,13 +1,9 @@
 @use "sass:math";
 @use "../abstracts/" as a;
 
-// ----------- without @forward ----------
-// @use "../abstracts/variables" as var;
-// @use "../variables" as *;
-
 .card {
   display: block;
-  padding: a.$base-padding;
+  padding: a.$base-padding * 3;
   border: a.$base-border-thickness solid #ddd;
   box-shadow: a.$base-box-shadow;
   border-radius: math.div(a.$base-border-radius, 4);
